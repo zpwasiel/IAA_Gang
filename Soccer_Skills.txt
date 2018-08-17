@@ -1,2 +1,3 @@
-Richy is the best soccer player.
-Jacob sucks.
+Richy = 'decent player'
+Jacob = 'sucks'
+Zack = 'Messi'
